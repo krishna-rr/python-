@@ -1,0 +1,13 @@
+x=input("enter value 1:")
+y=input("enter value 2")
+sum=int(x)+int(y)
+print("sum",+sum)
+ans=int(x)-int(y)
+print("ans-",ans)
+x=input("enter value 1:")
+y=input("enter value 2")
+ans0=int(x)*int(y)
+print("ans",ans0)
+
+ans1=int(x)/int(y)
+print("ans1",ans1)

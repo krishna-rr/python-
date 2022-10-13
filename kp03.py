@@ -1,0 +1,6 @@
+y1=int(input("enter y1 number:-"))
+y2=int(input("enter y2 number:-"))
+x1=int(input("enter x1 number:-"))
+x2=int(input("enter x2 number:-"))
+slope=float(y1-y2)/(x1-x2)
+print(slope)
